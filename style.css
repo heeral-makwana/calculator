@@ -6,7 +6,7 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 body{
-    background-color:#db6868;
+    background-color:#588a9c;
 }
 .container{
     height:100vh;
@@ -21,7 +21,7 @@ body{
     border-radius:20px;
     background: transparent;
     border:none;
-    box-shadow: -1px -1px 10px 10px rgba(189,97,97,0.8)
+    box-shadow: -1px -1px 10px 10px rgba(220, 243, 255, 0.8)
 }
 
 #input{
@@ -48,9 +48,9 @@ button{
     border-radius:50%;
     cursor:pointer;
     background:transparent;
-    box-shadow:6px 6px 10px rgba(190,97,97,1),-6px -6px 10px rgba(190,97,97,1);
+    box-shadow:6px 6px 10px rgb(130, 145, 209),-6px -6px 10px rgb(66, 105, 131);
 
 }
 .new{
-    box-shadow: inset 6px 6px 10px rgba(189,97,97,.5), inset -6px -6px 10px rgba(189,97,97,.9);
+    box-shadow: inset 6px 6px 10px rgba(68, 95, 144, 0.608), inset -6px -6px 10px rgba(68, 103, 137, 0.9);
 }
